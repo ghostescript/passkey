@@ -21,6 +21,10 @@ Before using the tool, you need to install the `cryptography` library.
 pip install cryptography
 ```
 
+## Quick Usage
+
+![alt text](https://raw.githubusercontent.com/ghostescript/passkey/refs/heads/main/quick_usage/Screenshot_20251121-221308_Termux.jpg)
+
 ## How to Use
 
 Follow these steps to generate keys, encrypt a message, and decrypt it.
